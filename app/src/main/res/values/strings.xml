@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AbsenceImitationBHEL</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>BHEL</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+    <string name="country_prompt1">Choose type of message notification</string>
+    <string-array name="country_arrays1">
+        <item>TOUR</item>
+        <item>LEAVE</item>
+        <item>MEETING</item>
+    </string-array>
+</resources>
